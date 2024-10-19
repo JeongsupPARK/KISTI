@@ -1,5 +1,9 @@
 data/dataset_shiptype/**/*.png
 
+data/dataset_shiptype/**/*.jpg
+
 data/dataset_status/**/*.png
+
+data/dataset_status/**/*.jpg
 
 not-used/
